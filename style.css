@@ -1,0 +1,32 @@
+.container{
+    width: 600px;
+    height: 70px;
+    margin-right: 20px;
+}
+.block1{
+
+
+    height: auto;
+}
+.h1{
+    padding: 11px;
+    margin-left: -18px;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    font-size: 27px;
+}
+.navbar-item{
+    margin-left: 30px;
+}
+.navbar{
+    width: 500px;
+}
+.block2{
+    width: 400px;
+
+    height: 500px;
+
+}
+.secondContainer{
+    display: flex;
+}
